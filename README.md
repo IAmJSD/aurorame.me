@@ -7,7 +7,7 @@ Great question! There are a few key things, but most VPS's/domain providers shou
 - I would suggest >10GB of free disk space. I personally use a 120GB virtual disk on my IIS VM.
 - A web server which can server multiple directories, **can hide files** and supports PHP. I personally use IIS.
 - I personally use PHP 7.0 but I have not tried anything lower. Your mileage may vary.
-- Cloudflare. I would suggest using it for your site anyway due to its power firewall but you **must** use it for this project due to how IP logging is setup.
+- Cloudflare. I would suggest using it for your site anyway due to its powerful firewall but you **must** use it for this project due to how IP logging is setup.
 ## What data is logged in the DB?
 There are 2 tables:
 - **keylist** - This is the one to be edited by the administrator. This contains the following. Please note you can remove all of the columns except dkey:
