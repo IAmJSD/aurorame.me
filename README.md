@@ -1,3 +1,4 @@
+![alt text](https://i.aurorame.me/PQNG3IpCDG.png)
 # aurorame.me
 **THIS IS THE MOST IMPORTANT SECURITY STEP SO IF YOU DON'T READ ANY OF BELOW, PLEASE READ THIS. MAKE SURE YOU HIDE "website.db" FROM THE INTERNET.**
 ## So what is this?
