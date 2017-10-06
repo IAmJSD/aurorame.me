@@ -5,7 +5,8 @@
   "RequestURL": "INSERT_URL_HERE/upload.php",
   "FileFormName": "fileform",
   "Arguments": {
-    "key": "INSERT_KEY_HERE"
+    "key": "INSERT_KEY_HERE",
+    "file_length": "5"
   },
   "ResponseType": "Text",
   "URL": "$json:url$"
