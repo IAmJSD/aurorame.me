@@ -1,4 +1,5 @@
 <?php
+    $filelength = 5;
     $finaldir = "INSERT_URL_HERE";
     function CleanSTR($str) {
         $disallowedchars = ["\0", "\n", "\r", "*", "'", '"'];
@@ -55,7 +56,7 @@
                         $json->status = "ERR";
                         $json->errormsg = "File too big.";
                     } else {
-                        $filename = RandomStringGenerator(10, $db, $filetype);
+                        $filename = RandomStringGenerator($filelength, $db, $filetype);
                         if (move_uploaded_file($_FILES["fileform"]["tmp_name"], "i/".$filename.'.'.$filetype)) {
                             $json->status = "OK";
                             $json->errormsg = "";
