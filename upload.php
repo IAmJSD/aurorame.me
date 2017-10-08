@@ -1,6 +1,6 @@
 <?php
     $filelength = 5;
-    $finaldir = "INSERT_URL_HERE";
+    $finaldir = "https://i.aurorame.me/";
     function CleanSTR($str) {
         $disallowedchars = ["\0", "\n", "\r", "*", "'", '"'];
         foreach($disallowedchars as $char) {
@@ -56,11 +56,11 @@
                         $json->status = "ERR";
                         $json->errormsg = "File too big.";
                     } else {
-			if(isset($_POST["file_length"])) {
-				if($_POST["file_length"] >= 5 and $_POST["file_length"] <= 230) {
-					$filelength = $_POST["file_length"];
-				}
-			}
+						if(isset($_POST["file_length"])) {
+							if($_POST["file_length"] >= 5 and $_POST["file_length"] <= 230) {
+								$filelength = $_POST["file_length"];
+							}
+						}
                         $filename = RandomStringGenerator($filelength, $db, $filetype);
                         if (move_uploaded_file($_FILES["fileform"]["tmp_name"], "i/".$filename.'.'.$filetype)) {
                             $json->status = "OK";
@@ -76,4 +76,4 @@
             }
         }
     }
-	echo(json_encode($json));
+    echo(json_encode($json));
