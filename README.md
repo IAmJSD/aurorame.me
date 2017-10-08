@@ -31,4 +31,5 @@ There are 2 tables:
 10. Insert your own key into the table `keylist`.
 11. Hope it all works :)
 
+**If you need a further example, check the "example" branch.**
 ![alt text](https://i.aurorame.me/PQNG3IpCDG.png)
