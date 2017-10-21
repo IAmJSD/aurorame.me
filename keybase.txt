@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jakemakesstuff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aurorame.me
+  * I am jakemakesstuff (https://keybase.io/jakemakesstuff) on keybase.
+  * I have a public key ASCNevZ-e1aepLbLcLU3hoFJI7ER5_J1Skc_hrOV0EI0Jgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208d7af67e7b569ea4b6cb70b53786814923b111e7f2754a473f86b395d04234260a",
+      "host": "keybase.io",
+      "kid": "01208d7af67e7b569ea4b6cb70b53786814923b111e7f2754a473f86b395d04234260a",
+      "uid": "57c420557908b207c8fad3c3267db719",
+      "username": "jakemakesstuff"
+    },
+    "merkle_root": {
+      "ctime": 1508596225,
+      "hash": "7a9c9f02c643d1aa3b6c8aa8105b13f94a35311347cfd14d086638b31843b55032257d2f9ea815223b7757207e5a6f53a07bffb69e85d5afa0c43f40e5bda334",
+      "hash_meta": "aceba5dd19e49a17ec215101f0ad96da49479b00689fd1044cf97a87a8c81d0a",
+      "seqno": 1612042
+    },
+    "service": {
+      "hostname": "aurorame.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508596231,
+  "expire_in": 504576000,
+  "prev": "a1a1871b5310ced4586e6537a27d8b070c907ee6feff5c7a7b0ae8f3e54e01b5",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjXr2fntWnqS2y3C1N4aBSSOxEefydUpHP4azldBCNCYKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGQ3YWY2N2U3YjU2OWVhNGI2Y2I3MGI1Mzc4NjgxNDkyM2IxMTFlN2YyNzU0YTQ3M2Y4NmIzOTVkMDQyMzQyNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGQ3YWY2N2U3YjU2OWVhNGI2Y2I3MGI1Mzc4NjgxNDkyM2IxMTFlN2YyNzU0YTQ3M2Y4NmIzOTVkMDQyMzQyNjBhIiwidWlkIjoiNTdjNDIwNTU3OTA4YjIwN2M4ZmFkM2MzMjY3ZGI3MTkiLCJ1c2VybmFtZSI6Impha2VtYWtlc3N0dWZmIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4NTk2MjI1LCJoYXNoIjoiN2E5YzlmMDJjNjQzZDFhYTNiNmM4YWE4MTA1YjEzZjk0YTM1MzExMzQ3Y2ZkMTRkMDg2NjM4YjMxODQzYjU1MDMyMjU3ZDJmOWVhODE1MjIzYjc3NTcyMDdlNWE2ZjUzYTA3YmZmYjY5ZTg1ZDVhZmEwYzQzZjQwZTViZGEzMzQiLCJoYXNoX21ldGEiOiJhY2ViYTVkZDE5ZTQ5YTE3ZWMyMTUxMDFmMGFkOTZkYTQ5NDc5YjAwNjg5ZmQxMDQ0Y2Y5N2E4N2E4YzgxZDBhIiwic2Vxbm8iOjE2MTIwNDJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYXVyb3JhbWUubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwODU5NjIzMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhMWExODcxYjUzMTBjZWQ0NTg2ZTY1MzdhMjdkOGIwNzBjOTA3ZWU2ZmVmZjVjN2E3YjBhZThmM2U1NGUwMWI1Iiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQGX483fnm043V9KJ+Kygo6MgpQp9XPw0z1c2eN0SjLSp2f7PmgAUOhkMpDhvJ8vSdrjNnLzhk4Uh/laBQK24rA6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBiuc4jbLNj2ldB7u3exfanI0xHpfiOuFBHi6aJdkgOlqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jakemakesstuff
+
+==================================================================
